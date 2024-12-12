@@ -1,6 +1,6 @@
 # Combining Machine Learning Bias Mitigation Approaches to Satisfy Multiple Fairness Constraints
 
-This repository contains supplementary materials related to the paper titled "Combining Machine Learning Bias Mitigation Approaches to Satisfy Multiple Fairness Constraints" submitted to the AIES 2024 conference. The paper addresses the challenge of mitigating bias in machine learning algorithms in multiple fairness metrics. The proposed approach combines existing bias mitigation approaches targeting different fairness metrics to mitigate bias in multiple fairness metrics at the same time.
+This repository contains supplementary materials related to the paper titled "Combining Machine Learning Bias Mitigation Approaches to Satisfy Multiple Fairness Constraints" (under review). The paper addresses the challenge of mitigating bias in machine learning algorithms in multiple fairness metrics. The proposed approach combines existing bias mitigation approaches targeting different fairness metrics to mitigate bias in multiple fairness metrics at the same time.
 
 ## Paper Abstract
 
